@@ -23,7 +23,7 @@ Put requirements
 ## Alternatives
 A clear and concise description of any alternative solutions or features you've considered.
 
-# # Limitations or Challenge
+## Limitations or Challenge
 Put limitations or challenges for building this solution
 
 # Additional context & Resources
